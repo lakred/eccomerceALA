@@ -1,0 +1,16 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2023-05-16 18:55:37 --> Could not find the language line "show_menu"
+ERROR - 2023-05-16 18:55:37 --> Could not find the language line "hide_menu"
+ERROR - 2023-05-16 18:55:53 --> Could not find the language line "show_menu"
+ERROR - 2023-05-16 18:55:53 --> Could not find the language line "hide_menu"
+ERROR - 2023-05-16 18:56:00 --> Could not find the language line "show_menu"
+ERROR - 2023-05-16 18:56:00 --> Could not find the language line "hide_menu"
+ERROR - 2023-05-16 19:02:38 --> Could not find the language line "show_menu"
+ERROR - 2023-05-16 19:02:38 --> Could not find the language line "hide_menu"
+ERROR - 2023-05-16 19:03:44 --> Could not find the language line "show_menu"
+ERROR - 2023-05-16 19:03:44 --> Could not find the language line "hide_menu"
+ERROR - 2023-05-16 19:04:45 --> Could not find the language line "show_menu"
+ERROR - 2023-05-16 19:04:45 --> Could not find the language line "hide_menu"
+ERROR - 2023-05-16 19:04:57 --> Could not find the language line "show_menu"
+ERROR - 2023-05-16 19:04:57 --> Could not find the language line "hide_menu"
